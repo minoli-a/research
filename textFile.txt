@@ -1,0 +1,8 @@
+"duck", 0, "Bird"
+"duck", 1, "Fabric"
+"duck", 2, "Verb"
+"mine", 0, "magē (Pronoun)"
+"mine", 1, "patala (Noun)"
+"mine", 2, "bimbōmbaya (Noun)"
+"mine", 3, "kæṇīma (Verb)"
+"mine", 4, "viśāla (Idiom)"
