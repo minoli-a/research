@@ -1,9 +1,0 @@
-Word, ClassId, ClassName
-"duck", 0, "Bird"
-"duck", 1, "Fabric"
-"duck", 2, "Verb"
-"mine", 0, "mage (Pronoun)"
-"mine", 1, "patala (Noun)"
-"mine", 2, "bimbombaya (Noun)"
-"mine", 3, "kanima (Verb)"
-"mine", 4, "visala (Idiom)"
