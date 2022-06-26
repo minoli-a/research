@@ -1,6 +1,7 @@
 Word, ClassId, ClassName
 "bank", 0, "බැංකුව "
 "bank", 1, "ඉවුර"
+"bank", 2, "තැන්පත් කරනවා"
 "mine", 0, "මගේ"
 "mine", 1, "පතල"
 "mine", 2, "බිම් බෝම්බ"
